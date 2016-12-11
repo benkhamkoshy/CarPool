@@ -27,5 +27,10 @@
 
             return false;
         }
+
+        private void SendConfirmation()
+        {
+            // Send Confirmation 
+        }
     }
 }
